@@ -1,5 +1,8 @@
 package com.anothersava.nitka;
 
+/**
+ * Current solution takes O(n) memory and O(n²) time
+ */
 public class Pyramid
 {
 	public double W (int row, int pos)
