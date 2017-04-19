@@ -1,1 +1,1 @@
-![Кирпичная пирамида — формулировка задачи](https://github.com/AnotherSava/Nitka/blob/master/task.png)
+![Кирпичная пирамида — формулировка задачи](task.png)
